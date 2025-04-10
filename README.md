@@ -66,7 +66,7 @@ Clone this repository to your desired folder:
 
 sh
   cd my-folder
-  git clone https://github.com/ngalamac/Hello-Codegisoft Academy.git
+  git clone https://github.com/Frankline-Nera/Hello-CodegiSoft-Academy.git
 
 
 ### Install
@@ -102,9 +102,9 @@ sh
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 *Ngala Mac*
+👤 *Frankline Ebube*
 
-- GitHub: [@ngalamac](https://github.com/ngalamac/Hello-Codegisoft Academy.git)
+- GitHub: [@Frankline Ebube](https://github.com/Frankline-Nera)
 
  FUTURE FEATURES 
 
